@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ukUroojKhan
 - 👀 I’m interested in AI-Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Scientist
+- 🌱 I’m currently learning Python & Nodejs
+- 💞️ I’m looking to collaborate on Software Engineer
 - 📫 How to reach me On Git
 
 <!---
